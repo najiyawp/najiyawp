@@ -1,7 +1,7 @@
-<h1 align="center">
-  <code>to whom it may concern</code>
-</h1>
+<p>
+  <img src="" />
+</p>
 
 <p align="center">
-  <img src="Persona 3 Hello GIF by ATLUS West.gif" width="500">
+  <img src="Untitled249_20260821071739.png" width="700">
 </p>
