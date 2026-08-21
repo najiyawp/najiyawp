@@ -8,9 +8,7 @@
 
 <h1 align="center">
   <code>
-    <u>
       Najiya R.
-    </u>
   </code>
 </h1>
 
