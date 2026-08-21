@@ -1,5 +1,5 @@
-<p>
-  <img src="" />
+<p align="center">
+  <img src="Persona 3 Hello GIF by ATLUS West.gif" width="500"/>
 </p>
 
 <p align="center">
