@@ -13,6 +13,6 @@
 <p align="center"><code>Full-stack Developer & Creative Designer</code></p>
 
 <p align="left">
-  <img src="alien-monster.gif" width="80"/>
+  <img src="alien-monster.gif" width="40"/>
 </p>
 
