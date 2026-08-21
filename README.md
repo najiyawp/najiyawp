@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Untitled249_20260821071739.png" width="200">
+  <img src="towhom.png" width="500">
 </p>
 
 <p align="center">
