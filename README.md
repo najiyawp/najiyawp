@@ -27,9 +27,14 @@ Im Najiya, commonly known as Yaya.  I consider myself as a creative designer and
 <p align="left">
 Im currently working on plenty things, such as;
   
-▸ `01` Build full-stack projects  
-▸ `02` Improve UI/UX skills  
-▸ `03` Explore Flutter  
-▸ `04` Learn game development
+`01` Build full-stack projects  
+`02` Improve UI/UX skills  
+`03` Explore Flutter  
+`04` Learn game development
 </p>
+
+<p align="center">
+<code>There are some of my relatives in Tech;</code>
+</p>
+
 
