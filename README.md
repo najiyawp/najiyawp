@@ -7,6 +7,6 @@
 </p>
 
 <h1 align="center">
-      Najiya R.
+  <code>Najiya R.</code>
 </h1>
 
