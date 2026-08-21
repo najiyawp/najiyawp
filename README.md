@@ -37,4 +37,22 @@ Im currently working on plenty things, such as;
 <code>There are some of my relatives in Tech;</code>
 </p>
 
+**▸ Front-End**
 
+`ReactJS` `JavaScript` `HTML` `CSS`
+
+**▸ Back-End**
+
+`PHP` `CodeIgniter 3` `Node.js`
+
+**▸ Mobile**
+
+`Flutter` `Dart`
+
+**▸ Design**
+
+`Figma` `IbisPaint` `CapCut` `Affinity` `Canva`
+
+**▸ Tools & Deployment**
+
+`Git` `GitHub`
