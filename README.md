@@ -10,3 +10,4 @@
   <code>Najiya R.</code>
 </h1>
 
+<p align="center">Full-stack Developer & Creative Designer</p>
