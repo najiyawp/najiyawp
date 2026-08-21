@@ -21,6 +21,15 @@ Im Najiya, commonly known as Yaya.  I consider myself as a creative designer and
 </p>
 
 <p align ="left">
-  <img src="Sonic.gif" width="20"/>
+  <img src="Sonic.gif" width="40"/>
+</p>
+
+<p align="left">
+Im currently working on plenty things, such as;
+  
+▸ `01` Build full-stack projects  
+▸ `02` Improve UI/UX skills  
+▸ `03` Explore Flutter  
+▸ `04` Learn game development
 </p>
 
