@@ -57,3 +57,6 @@ Im currently working on plenty things, such as;
 
 `Git` `GitHub`
 
+<h2 align="center">
+  Lets get in touch!
+</h2>
